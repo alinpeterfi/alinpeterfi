@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alinpeterfi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Node
-- 💞️ I’m looking to collaborate on Web Dev projects
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C# and Java
+- 💞️ I’m looking to collaborate on Software Development projects
 - 📫 How to reach me: alinpeterfi@gmail.com
 
 <!---
